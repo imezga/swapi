@@ -163,6 +163,12 @@ main {
     }
 
     main {
-        margin-top: 0;
+        padding: 0;
+    }
+}
+
+@media (max-width: 650px) {
+    .content {
+        margin: 1.5em 0;
     }
 }
