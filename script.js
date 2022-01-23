@@ -4,7 +4,6 @@ const nav = document.querySelector('nav');
 const buttons = document.querySelectorAll('.btn');
 const main = document.querySelector('main');
 
-// default category is people
 let category;
 
 // responsive navbar
